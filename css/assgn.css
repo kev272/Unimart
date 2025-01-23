@@ -1,0 +1,25 @@
+input[type=text],input[type=email],input[type=number],
+textarea,select{width:95%;height: 20px;}
+   legend{
+       font-weight: bolder;
+       text-align: center;
+       font-size: 50px;
+   }
+   button{
+       background-color:aqua;
+       border-radius:10px;
+       color:white;
+       height:40px;
+   }
+   textarea{height: 100px;}
+    #main{margin: auto;}
+body{background-color: purple;box-shadow: 10px 10px black}
+form{width: 100%;
+background-color: white;
+    color: black;
+    width: 70%;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 12px 8px 4px #1c1f22;
+    border-radius: 20px;
+padding: 10px;}
